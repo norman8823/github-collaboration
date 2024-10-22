@@ -1,1 +1,3 @@
-GABE IS THE COOLEST PERSON EVER AND I DONT CARE IF THIS BREAKS YOUR CODE :P :P :P :P :P
+whatever text for merge conflict
+
+the quick brown fox jumped over the yellow dog
